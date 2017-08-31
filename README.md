@@ -19,9 +19,35 @@ This article is actually a tutorial for selecting a 10-20 able, working students
 
 #### What can Open Source offer me?
 
-What do you want? Working for Open Source will make your resume stand out when applying for a job. It'll without no doubt give a boost to your career.
+* Good Placements? Working for Open Source will make your resume stand out when applying for a job. It'll without no doubt give a boost to your career.
 
-Work? Working for Open Source organisation can sometimes even land you in a job. If you start contributing to Open Source Organisations, and if you're a good enough developer it can land you in a job, even before your final year. And you don't have to be programmer, if you're good with content writing and a good manager, it could also get you in.
+* Work during college? Working for Open Source organisation can sometimes even land you in a job. If you start contributing to Open Source Organisations, and if you're a good enough developer it can land you in a job, even before your final year. And you don't have to be programmer, if you're good with content writing and a good manager, it could also get you in.
 
-Money? Have you heard of Google Summer of Code? Working for Open Source Organisation for a mere 60 days can get you a sum of Rs. 2,00,000. Over 1200 students participate out of which 600 students are from India and there had been GSoC Students from MEC in the past, working for reputed Organisations like Debian and Fedora, which FOSSMEC can get you in touch with. There had been a Ex-MECian, who participated in Google Summer of Code for all of his four years, and when the stipend was Rs 3,50,000. So just imagine four years!! That's 4 X 3,50,000 that's approximately Rs 14,00,000 from working a few months for different Open Source Organisation during college!!!
+* Money? Have you heard of Google Summer of Code? Working for Open Source Organisation for a mere 60 days can get you a sum of Rs. 2,00,000. Over 1200 students participate out of which 600 students are from India and there had been GSoC Students from MEC in the past, working for reputed Organisations like Debian and Fedora, which FOSSMEC can get you in touch with. There had been a Ex-MECian, who participated in Google Summer of Code for all of his four years, and when the stipend was Rs 3,50,000. So just imagine four years!! That's 4 X 3,50,000 that's approximately Rs 14,00,000 from working a few months for different Open Source Organisation during college!!!
 So first year is not too early to start. Okay, so know the importance of Open Source now? Let's go!
+
+[Read more about Summer of Code](https://summerofcode.withgoogle.com/)
+
+## The Task
+
+### Additional help for this task, you want a helping hand for this tasks?
+#### Follow through with this [Small Tutorial](https://www.pluralsight.com/courses/get-involved)
+##### Caution: The instructions are very vague, you'll have to do group discussions and work together as a team for finishing it. The people who complete this will be given entry to the FOSS Club.
+
+##### Time Required: 2-3 Days (Optional Step).
+
+* It is best to follow this task on a Linux Machine, which already comes with Git Installed, it's best to install it first and then coming back to do this task. Always remember that  this task is not to see who is first but to learn about various aspects of Open Source and Tech and also learn about one Programming Language of your choice along the line.
+
+##### Time Required: 3-7 Days.
+
+* Create a Github Account and fill in the details and set up Git on your local machine and configure it. Learn basic Github commands. (Linux preferred, but can be done on any operating system) 
+
+#### Time Required: 30 minutes - 2 days.
+
+* Fork this repository onto your local machine. (This part of the task is given as a full on tutorial [here](https://github.com/FossMec/Practice-Git))
+*  In the folder you've just forked create a folder with the folder name as your GitHub Username, as an addition for us to know who you are, create a `README.md` and add something about yourself and why you'd like to work for FOSS MEC and Open Source and a bit about yourself with your Class and section. And commit this file and give a Pull Request to our official Repository.
+
+#### Time Required: 1 week - 1 month.
+* There are a set of problems which are given in [this]() document. Take your time and try to learn a language of your own choice by using any book, any online course and solve the set of problems. Remember it's not about who comes first, it is about what all you learn along the way. The questions will start from easy and will become very hard, you can complete as much as you want, but completing more will give you an edge over the competition.
+* Solve each question in a separate file within your named folder in your repo and commit every time each question is successfully completed. Whenever a question is completed do a Pull Request to our main repository. 
+* All the code is Open so, we can easily find out if it's copied.
