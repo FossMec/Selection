@@ -30,7 +30,7 @@ So first year is not too early to start. Okay, so know the importance of Open So
 
 ## Task
 
-* Enroll in the task by adding your details to [This sheet](goo.gl/jSZX2b). For reference, we have added a sample task of how we expect the task to be done.
+* Enroll in the task by adding your details to [This sheet](https://goo.gl/jSZX2b). For reference, we have added a sample task of how we expect the task to be done.
 
 ### Additional help for this task, you want a helping hand for this tasks?
 #### Follow through with this [Small Tutorial](https://www.pluralsight.com/courses/get-involved)
@@ -57,6 +57,6 @@ So first year is not too early to start. Okay, so know the importance of Open So
 
 * There are a set of problems which are given at https://www.hackerrank.com/domains/algorithms/warmup. Take your time and try to learn a language of your own choice by using any book, any online course and solve the set of problems. Remember it's not about who comes first, it is about what all you learn along the way. The questions will start from easy and will become very hard, you can complete as much as you want, but completing more will give you an edge over the competition. Start from `Warm Up` section in HackerRank and move up difficulty. 
 
-* Each time a challenge is solved, update in the Google Sheet in the `Link to your Submissions` section, add the link to your own submission. Remember the sheet is public and everyone can see your submissions.
+* Each time a challenge is solved, update in the Google Sheet in the `Link to your Submissions` section, add the link to your own submission. Remember the sheet is public and everyone can see your submissions. Also take the solved challenge and add it to a file in your own folder and commit and do a Pull Request to our main repo. The sample task can be seen in carrotss folder, who has tried the task.
 
 #### The Selection will be done when the majority of the people who have completed the tasks or after Excel 2017, which ever comes first, and we'll go through each and every one of your submissions (We'll be giving more weightage to harder algorithmic questions and not the number of questions solved.) for conducting selection.
