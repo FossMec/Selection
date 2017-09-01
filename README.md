@@ -28,26 +28,33 @@ So first year is not too early to start. Okay, so know the importance of Open So
 
 [Read more about Summer of Code](https://summerofcode.withgoogle.com/)
 
-## The Task
+## Task
 
 ### Additional help for this task, you want a helping hand for this tasks?
 #### Follow through with this [Small Tutorial](https://www.pluralsight.com/courses/get-involved)
 ##### Caution: The instructions are very vague, you'll have to do group discussions and work together as a team for finishing it. The people who complete this will be given entry to the FOSS Club.
 
-##### Time Required: 2-3 Days (Optional Step).
+##### Time Required: 1-3 Days (Optional Step).
 
 * It is best to follow this task on a Linux Machine, which already comes with Git Installed, it's best to install it first and then coming back to do this task. Always remember that  this task is not to see who is first but to learn about various aspects of Open Source and Tech and also learn about one Programming Language of your choice along the line.
 
-##### Time Required: 3-7 Days.
+###### Fill in the following sheet, as  you move up the task. goo.gl/jSZX2b
+
+##### Time Required: 3 hours - 3 Days.
 
 * Create a Github Account and fill in the details and set up Git on your local machine and configure it. Learn basic Github commands. (Linux preferred, but can be done on any operating system) 
 
-#### Time Required: 30 minutes - 2 days.
+##### Time Required: 30 minutes - 2 days.
 
 * Fork this repository onto your local machine. (This part of the task is given as a full on tutorial [here](https://github.com/FossMec/Practice-Git))
-*  In the folder you've just forked create a folder with the folder name as your GitHub Username, as an addition for us to know who you are, create a `README.md` and add something about yourself and why you'd like to work for FOSS MEC and Open Source and a bit about yourself with your Class and section. And commit this file and give a Pull Request to our official Repository.
+*  In the folder you've just forked create a folder with the folder name as your GitHub Username, as an addition for us to know who you are, create a `README.md` and add something about yourself and why you'd like to work for FOSS MEC and Open Source and a bit about yourself with your Class and section. And commit this file and give a Pull Request to our official Repository, add the link to the Pull Request in the Google Sheet.
 
-#### Time Required: 1 week - 1 month.
-* There are a set of problems which are given in [this]() document. Take your time and try to learn a language of your own choice by using any book, any online course and solve the set of problems. Remember it's not about who comes first, it is about what all you learn along the way. The questions will start from easy and will become very hard, you can complete as much as you want, but completing more will give you an edge over the competition.
-* Solve each question in a separate file within your named folder in your repo and commit every time each question is successfully completed. Whenever a question is completed do a Pull Request to our main repository. 
-* All the code is Open so, we can easily find out if it's copied.
+##### Time Required: 1 week - 1 month.
+
+* For completing this part of the task, you should be required to have knowledge of at least one programming language and a HackerRank account. This task should be done simultaneously as you learn a language.
+
+* There are a set of problems which are given at https://www.hackerrank.com/domains/algorithms/warmup. Take your time and try to learn a language of your own choice by using any book, any online course and solve the set of problems. Remember it's not about who comes first, it is about what all you learn along the way. The questions will start from easy and will become very hard, you can complete as much as you want, but completing more will give you an edge over the competition. Start from `Warm Up` section in HackerRank and move up difficulty. 
+
+* Each time a challenge is solved, update in the Google Sheet in the `Link to your Submissions` section, add the link to your own submission. Remember the sheet is public and everyone can see your submissions.
+
+#### The Selection will be done when the majority of the people who have completed the tasks or after Excel 2017, which ever comes first, and we'll go through each and every one of your submissions (We'll be giving more weightage to harder algorithmic questions and not the number of questions solved.) for conducting selection.
