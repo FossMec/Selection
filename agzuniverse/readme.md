@@ -1,0 +1,2 @@
+Hi, I am Aswin G a.k.a "A G Z" currently in CS1A. I enjoy programming very much, and my favorite language is JavaScript.
+Looking forward to contributing to open source and hopefully becoming an active member of FOSSMEC.
