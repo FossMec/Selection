@@ -34,7 +34,9 @@ So first year is not too early to start. Okay, so know the importance of Open So
 
 ### Additional help for this task, you want a helping hand for this tasks?
 #### Follow through with this [Small Tutorial](https://www.pluralsight.com/courses/get-involved)
-##### Caution: The instructions are very vague, and the task is excruciatingly hard for beginner, take your time, seek for help to complete it. You'll have to do group discussions and work together as a team for finishing it. The people who complete this will be considered for entry into FOSS MEC and the top winner will get exciting FOSS MEC Prizes!
+##### Caution: The instructions are very vague, and the task is excruciatingly hard for beginner, take your time, seek for help to complete it.(Warning: only Algorithmic questions will be valued) You'll have to do group discussions and work together as a team for finishing it. The people who complete this will be considered for entry into FOSS MEC and the top winner will get exciting FOSS MEC Prizes!
+
+
 
 ##### Time Required: 1-3 Days (Optional Step).
 
