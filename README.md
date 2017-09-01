@@ -30,6 +30,8 @@ So first year is not too early to start. Okay, so know the importance of Open So
 
 ## Task
 
+* Enroll in the task by adding your details to [This sheet](goo.gl/jSZX2b). For reference, we have added a sample task of how we expect the task to be done.
+
 ### Additional help for this task, you want a helping hand for this tasks?
 #### Follow through with this [Small Tutorial](https://www.pluralsight.com/courses/get-involved)
 ##### Caution: The instructions are very vague, you'll have to do group discussions and work together as a team for finishing it. The people who complete this will be given entry to the FOSS Club.
