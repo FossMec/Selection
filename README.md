@@ -13,7 +13,7 @@ As the most young club at MEC, only 6 months old, we have considerable achievmen
 
 #### Okay, cool! But how do I get in?
 
-So coming back to our point of this article. Last year when we began, we had no organised way to select people, we had to manually select the best people from over 200 tech oriented people. We needed determined people who were willing to work for this organisation with their heart and soul. We needed people who were passionate about learning and who were willing to volunteer for Open Source. We needed smart, young minds who were keen on learning and who were always looking for oppertunities to move ahead. 
+So coming back to our point of this article. Last year when we began, we had no organised way to select people, we had to manually select the best people from over 200 tech oriented people. We needed determined people who were willing to work for this organisation with their heart and soul. We needed people who were passionate about learning and who were willing to volunteer for Open Source. We needed smart, young minds who were keen on learning and who were always looking for opportunities to move ahead. 
 
 This article is actually a tutorial for selecting a 10-20 able, working students from a pool of over 300 students. Don't worry if you aren't familiar with anything, if you are ready to work for Open Source, you'll have all the oppertunities in the world open for you and people ready to mentor and guide you to achieve it.
 
