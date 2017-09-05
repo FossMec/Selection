@@ -1,0 +1,14 @@
+#!/bin/python3
+
+import sys
+
+def aVeryBigSum(n, ar):
+    s = 0
+    for x in range(n):
+        s+=ar[x]
+    return s
+
+n = int(input().strip())
+ar = list(map(int, input().strip().split(' ')))
+result = aVeryBigSum(n, ar)
+print(result)
