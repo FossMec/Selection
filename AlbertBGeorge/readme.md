@@ -17,7 +17,7 @@ Some of my experiences:
 
 ## Contact:
 
-[Telegram](https://t.me/albertbgeorge "Telegram @albertbgeorge").<br>
+[Telegram](https://t.me/albertbgeorge "Telegram @albertbgeorge")<br>
 [Twitter](https://twitter.com/AlbertBGeorge "Twitter handle @AlbertBGeorge")<br>
 [Personal Website](https://www.albertbgeorge.com "Website")<br>
 [Blog](https://www.albertbgeorge.github.io "Albert's personal blog")
