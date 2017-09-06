@@ -6,7 +6,7 @@
 </h1>
 
 <p>
-   I'm Alfred V Jose of CS 1B.I'm really intrested in exploring and learning new stuff and I love coding.I'm into web and app development and currently enrolled in an online course conducted by iit madras on web and app development.<br/><br/> 
+   I'm Alfred V Jose of CS 1B. I'm really intrested in exploring and learning new stuff and I love coding. I'm into web and app development and currently enrolled in an online course conducted by iit madras on web and app development.<br/><br/> 
    Languages Used: C++, Python, Javascript, HTML and CSS<br/>
    Database Used : Mysql<br/>
 </p>
@@ -28,7 +28,7 @@
 </h3>
 
 <p>
-   Telegram - https://t.me/alf_vj17
+   Telegram - https://t.me/alf_vj17<br/>
    Github   - https://github.com/alfvj17
 </p>
 
