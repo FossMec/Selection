@@ -5,8 +5,9 @@ I am **Albin Kottaram** from CS 1B. I am really into web development, reading no
 These are some of the major programming languages & environments that I have worked with:
 * Html & CSS with Bootstrap
 * C++
+* LOLCODE( KEWLEST LANGUAGE EVA! BUD ITZ NO FINISED :| )
 * Python
-* JavaScript(Going to start with React.js now)
+* JavaScript(Going to start with React.js now and React Native later)
 * PHP
 * Arduino
 * GameMaker
