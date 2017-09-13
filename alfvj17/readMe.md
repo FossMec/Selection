@@ -2,11 +2,11 @@
 <body>
 
 <h1> 
-    Hi! 
+    Hey! 
 </h1>
 
 <p>
-   I'm Alfred V Jose of CS 1B. I'm really intrested in exploring and learning new stuff and I love coding. I'm into web and app development and currently enrolled in an online course conducted by iit madras on web and app development. I'm also working on a web app under this course .<br/><br/> 
+   I'm Alfred V Jose of CS 1B. I'm really intrested in exploring and learning new stuff and I love coding. I'm into web and app development and currently enrolled in an online course conducted by iit madras on modern application development. I'm also working on a web app under this course.<br/><br/> 
    Languages worked with: C++, Python, Javascript, HTML and CSS<br/>
    Database worked with : Mysql<br/>
 </p>
@@ -24,7 +24,7 @@
 <hr>
 
 <h3>
-    Contact
+    Contact Me
 </h3>
 
 <p>
