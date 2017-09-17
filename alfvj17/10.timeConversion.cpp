@@ -7,39 +7,41 @@ using namespace std;
 
 int main()
 {
+     int a,b,c,i;
     char t[8];
     cin>>t;
-    int h1=(int)t[1]-'0';
-    int h2=(int)t[0]-'0';
-    int hh=(h2*10 + h1%10);
+    a=t[1]-'0';
+    b=t[0]-'0';
+    c=(b*10+a%10);
     if (t[8]=='A')
     {
-        if (hh==12)
+        if(c==12)
         {
             cout<<"00";
-            for(int i=2;i<=7;i++)
+            for(i=2;i<=7;i++)
                 cout<<t[i];
         }
         else
         {
-            for(int i=0;i<=7;i++)
+            for(i=0;i<=7;i++)
                 cout<<t[i];
         }
     }
     else
     {
-        if(hh == 12)
+        if(c==12)
         {
-            for(int i=0;i<=7;i++)
+            for(i=0;i<=7;i++)
                 cout<<t[i];
         }
         else
         {
-            hh=hh+12;
-            cout<<hh;
+            c=c+12;
+            cout<<c;
             for(int i=2;i<=7;i++)
                 cout<<t[i];
         }
     }
     return 0;
+}    
 }    
