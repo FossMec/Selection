@@ -1,0 +1,1 @@
+Hello, My name is **Neville Antony** and im from **CS1B**. Im intersted in programming and learning new stuff everyday. I'd like to join FOSSMEC to improve and develop new skills. I have experience with C and C++ for three years. Im also learning Python and CSS. Hoping to be a member of FOSSMEC.
