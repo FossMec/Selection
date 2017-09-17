@@ -5,3 +5,6 @@ https://www.hackerrank.com/challenges/a-very-big-sum/submissions/code/53724968
 https://www.hackerrank.com/challenges/diagonal-difference/submissions/code/53725680
 https://www.hackerrank.com/challenges/diagonal-difference/submissions/code/53725680
 https://www.hackerrank.com/challenges/staircase/submissions/code/53726360
+https://www.hackerrank.com/challenges/mini-max-sum/submissions/code/54487172
+https://www.hackerrank.com/challenges/birthday-cake-candles/submissions/code/54487452
+https://www.hackerrank.com/challenges/time-conversion/submissions/code/54489556
