@@ -2,12 +2,11 @@
 
 I'm **Albert B George**, CS 1B.
 
-<p>Full Stack Web Developer with experience in Python, Django, Javascript, HTML5, PHP. I'm passionate about learning and building new things.</p>
+<p>Web Developer with experience in Python, Javascript, HTML5, PHP. I'm passionate about learning and building new things.</p>
 
 Some of my experiences:
 
 * Languages: Python, C++, Javascript
-* Back-end frameworks: Django, Flask
 * Front-end frameworks: jQuery, Bootstrap
 * Cloud implementation: Amazon AWS, Azure, Digital Ocean
 * Databases: Oracle, MySQL
