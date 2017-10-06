@@ -1,0 +1,21 @@
+#!/bin/python3
+
+import sys
+
+ap=ma=0
+s,t = input().strip().split(' ')
+s,t = [int(s),int(t)]
+a,b = input().strip().split(' ')
+a,b = [int(a),int(b)]
+m,n = input().strip().split(' ')
+m,n = [int(m),int(n)]
+apple = [int(apple_temp) for apple_temp in input().strip().split(' ')]
+orange = [int(orange_temp) for orange_temp in input().strip().split(' ')]
+for i in range(m):
+    if apple[i]>=s-a and apple[i]<=t-a:
+        ap+=1
+for i in range(n):
+    if orange[i]<=t-b and orange[i]>=s-b:
+        ma+=1
+print(ap)
+print(ma)
