@@ -8,3 +8,13 @@ https://www.hackerrank.com/challenges/staircase/submissions/code/53726360
 https://www.hackerrank.com/challenges/mini-max-sum/submissions/code/54487172
 https://www.hackerrank.com/challenges/birthday-cake-candles/submissions/code/54487452
 https://www.hackerrank.com/challenges/time-conversion/submissions/code/54489556
+https://www.hackerrank.com/challenges/grading/submissions/code/55389563
+https://www.hackerrank.com/challenges/apple-and-orange/submissions/code/55957255
+https://www.hackerrank.com/challenges/kangaroo/submissions/code/56327616
+https://www.hackerrank.com/challenges/between-two-sets/submissions/code/56327774
+https://www.hackerrank.com/challenges/breaking-best-and-worst-records/submissions/code/56328078
+https://www.hackerrank.com/challenges/the-birthday-bar/submissions/code/56328396
+https://www.hackerrank.com/challenges/divisible-sum-pairs/submissions/code/56328730
+https://www.hackerrank.com/challenges/migratory-birds/submissions/code/56332341
+https://www.hackerrank.com/challenges/day-of-the-programmer/submissions/code/56334122
+https://www.hackerrank.com/challenges/bon-appetit/submissions/code/56334911
