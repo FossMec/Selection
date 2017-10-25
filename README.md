@@ -42,7 +42,7 @@ So first year is not too early to start. Okay, so know the importance of Open So
 
 * It is best to follow this task on a Linux Machine, which already comes with Git Installed, it's best to install it first and then coming back to do this task. Always remember that  this task is not to see who is first but to learn about various aspects of Open Source and Tech and also learn about one Programming Language of your choice along the line.
 
-###### Fill in the following sheet, as  you move up the task. goo.gl/jSZX2b
+###### Fill in the following sheet, as  you move up the task. goo.gl/jSZX2b.
 
 ##### Time Required: 3 hours - 3 Days.
 
