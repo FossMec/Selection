@@ -9,7 +9,7 @@ Other things include Python bots to moderate IRC chat channels and simple games 
 
 I also like to play around with Photoshop, edit and create short videos, write stories and play strategy games.
 
-Currently working on some things with Angular.
+Currently working on some things with ~~Angular~~ React and ReactNative.
 
 ## Stuff I want to do
 
